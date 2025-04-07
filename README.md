@@ -7,7 +7,7 @@ Reed Willis and Gage Bays collabrated on this project to build a website example
 This website took several weeks to complete. It required lots of phone calls and real world experiences. Some of the requirments that Mrs. Nancy wished for was a photo gallery, the registration form, and her poster, along with many other things on the website. One of the issues that came about was the readability of this website, but Gage and I worked with the client and did everything to their desire, including fonts and layouts. 
 ----------------------------------------------
 
-* 🦭  This was an honors college prject for CIS 376 at UNA.
+* 🦭  This was an honors college project for CIS 376 at UNA.
 * 📅  This website was done in March, 2025.
 * ❌  An error that we are fixing is the font of the mission statement and the text readability of the entire website.
 
