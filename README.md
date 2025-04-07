@@ -1,8 +1,3 @@
-
-A code block with diff code syntax highlighting 
-A quote 
-
-
 Muscle Shoals Earth Day Spinup Website
 =============================
 
@@ -28,11 +23,21 @@ This website took several weeks to complete. It required lots of phone calls and
         </li>
 ```
 <details>
-  <summary>Details about the issue</summary>
+  <summary>Details about issue 1</summary>
   <p>Gage and I used the link of a screenshot of the form as the form on the website, but our proffessor, Dr. Barry Cumbie, showed us how to link the actual pdf and that is much better because it is the actual thing that we were trying to link to in the first place.</p>
 </details>
 
+```html
+<h4 class="mission">Shoals Earth Month Mission Statement:<br>
 
+      The mission of Shoals Earth Month Incorporated is to provide and support educational opportunities for individuals, families, local governments, schools, businesses, and organizations to enhance understanding of the importance and interconnectedness of all natural systems and to celebrate the beauty, biodiversity, and abundance of life on Earth.</h4>
+ ```
+<details>
+  <summary>Details about issue 2</summary>
+  <p>Tjhis is an issue that still needs to be fixed as of April 7, 2025. </p>
+      <br>
+      <p>The mission statement will be more readable once we get done editing the font and placement of it.</p>
+</details>
 
 [Resources](https://www.w3schools.com/css/css_dropdowns.asp)
 
