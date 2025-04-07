@@ -47,6 +47,10 @@ This website took several weeks to complete. It required lots of phone calls and
   border-bottom: 3px solid black;
 }
 ```
+<details>
+  <summary>Details about issue 3</summary>
+  <p>The banner is set to 100% of the screen, so no matter how much you zoom in or out, the banner is constant. This really isn't an issue, but I thought it would be helpful to point out.</p>
+</details>
 
 [Resources](https://www.w3schools.com/css/css_dropdowns.asp)
 
