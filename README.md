@@ -39,6 +39,15 @@ This website took several weeks to complete. It required lots of phone calls and
       <p>The mission statement will be more readable once we get done editing the font and placement of it.</p>
 </details>
 
+```script
+.banner-img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-bottom: 3px solid black;
+}
+```
+
 [Resources](https://www.w3schools.com/css/css_dropdowns.asp)
 
 
