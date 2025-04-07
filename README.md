@@ -24,7 +24,24 @@ This website took several weeks to complete. It required lots of phone calls and
 * ❌  An error that we are fixing is the font of the mission statement and the text readability of the entire website.
 
 ----------------------------------------------
+
+### Here's mine: 
+
+```html
+<head>
+  ...
+  <!-- Import element definition and auto-register -->
+  <script type="module" src="https://cdn.jsdelivr.net/npm/zero-md@3?register"></script>
+</head>
+<body>
+  ...
+  <!-- Profit! -->
+  <zero-md src="../README.md"></zero-md>
+</body>
+```
 ### Code
+
+
 [Code we needed help with](https://www.w3schools.com/css/css_dropdowns.asp)
 
 ![Code Issue](https://gist.github.com/user-attachments/assets/81db10cb-5c55-4b2b-9044-e3122ff41f6e)
