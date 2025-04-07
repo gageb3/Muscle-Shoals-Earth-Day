@@ -1,13 +1,6 @@
 
-screenshot, codeblock
-
-A code link
-A code block with code syntax highlighting 
 A code block with diff code syntax highlighting 
-
-A <detail><summary> block 
 A quote 
-Other markdown: lists, bold, emoticons
 
 
 Muscle Shoals Earth Day Spinup Website
@@ -25,7 +18,7 @@ This website took several weeks to complete. It required lots of phone calls and
 
 ----------------------------------------------
 
-### Here's mine: 
+###Code that needed to be fixed: 
 
 ```html
 <div class="navbar-collapse collapse show" id="xx">
@@ -34,14 +27,19 @@ This website took several weeks to complete. It required lots of phone calls and
           <a class="nav-link" href="assets/docs/vendor-sponsor-form-SEDF25.pdf" target="_blank">Be a Vender/Sponsor Form!</a>
         </li>
 ```
-### Code
-
-
-[Code we needed help with](https://www.w3schools.com/css/css_dropdowns.asp)
-
-![Code Issue](https://gist.github.com/user-attachments/assets/81db10cb-5c55-4b2b-9044-e3122ff41f6e)
-
 <details>
   <summary>Details about the issue</summary>
   <p>Gage and I used the link of a screenshot of the form as the form on the website, but our proffessor, Dr. Barry Cumbie, showed us how to link the actual pdf and that is much better because it is the actual thing that we were trying to link to in the first place.</p>
 </details>
+
+
+
+[Resources](https://www.w3schools.com/css/css_dropdowns.asp)
+
+
+----------------------------------------
+Bill Gates once said: 
+"Success is a lousy teacher. It seduces smart people into thinking they can't lose, It's fine to celebrate success, but it is more important to heed the lessons of failure." 
+
+
+
