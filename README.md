@@ -25,6 +25,7 @@ This website took several weeks to complete. It required lots of phone calls and
 * ❌  An error that we are fixing is the font of the mission statement and the text readability of the entire website.
 
 ![My Profile Issue](https://gist.github.com/user-attachments/assets/81db10cb-5c55-4b2b-9044-e3122ff41f6e)
+![alt text](https://gist.github.com/user-attachments/assets/81db10cb-5c55-4b2b-9044-e3122ff41f6e)
 
 <details>
   <summary>Click to see more details</summary>
