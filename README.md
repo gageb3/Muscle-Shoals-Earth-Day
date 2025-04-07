@@ -34,7 +34,7 @@ This website took several weeks to complete. It required lots of phone calls and
  ```
 <details>
   <summary>Details about issue 2</summary>
-  <p>Tjhis is an issue that still needs to be fixed as of April 7, 2025. </p>
+  <p>This is an issue that still needs to be fixed as of April 7, 2025. </p>
       <br>
       <p>The mission statement will be more readable once we get done editing the font and placement of it.</p>
 </details>
