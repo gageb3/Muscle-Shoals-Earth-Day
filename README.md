@@ -1,6 +1,5 @@
 
 screenshot, codeblock
-pay it forward: future issue (data object, clear time/date, self manage?)
 
 A code link
 A code block with code syntax highlighting 
@@ -24,9 +23,13 @@ This website took several weeks to complete. It required lots of phone calls and
 * 📅  This website was done in March, 2025.
 * ❌  An error that we are fixing is the font of the mission statement and the text readability of the entire website.
 
+----------------------------------------------
+### Code
+[Code we needed help with](https://www.w3schools.com/css/css_dropdowns.asp)
+
 ![Code Issue](https://gist.github.com/user-attachments/assets/81db10cb-5c55-4b2b-9044-e3122ff41f6e)
 
 <details>
   <summary>Details about the issue</summary>
-  <p>Gage and I used the link of a screenshot of the form as the form on the website, but our proffessor, Dr. Barry Cumbie, showed us how to link the actual pdf and that is much better because it is the actual thing that we were trying to link ot in the first place.</p>
+  <p>Gage and I used the link of a screenshot of the form as the form on the website, but our proffessor, Dr. Barry Cumbie, showed us how to link the actual pdf and that is much better because it is the actual thing that we were trying to link to in the first place.</p>
 </details>
