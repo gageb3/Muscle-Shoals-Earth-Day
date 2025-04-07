@@ -28,16 +28,11 @@ This website took several weeks to complete. It required lots of phone calls and
 ### Here's mine: 
 
 ```html
-<head>
-  ...
-  <!-- Import element definition and auto-register -->
-  <script type="module" src="https://cdn.jsdelivr.net/npm/zero-md@3?register"></script>
-</head>
-<body>
-  ...
-  <!-- Profit! -->
-  <zero-md src="../README.md"></zero-md>
-</body>
+<div class="navbar-collapse collapse show" id="xx">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="assets/docs/vendor-sponsor-form-SEDF25.pdf" target="_blank">Be a Vender/Sponsor Form!</a>
+        </li>
 ```
 ### Code
 
