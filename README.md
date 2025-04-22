@@ -59,8 +59,7 @@ This website took several weeks to complete. It required lots of phone calls and
 
 
 ----------------------------------------
-Bill Gates once said: 
-"Success is a lousy teacher. It seduces smart people into thinking they can't lose, It's fine to celebrate success, but it is more important to heed the lessons of failure." 
+> Bill Gates once said: "Success is a lousy teacher. It seduces smart people into thinking they can't lose, It's fine to celebrate success, but it is more important to heed the lessons of failure." 
 
 
 
