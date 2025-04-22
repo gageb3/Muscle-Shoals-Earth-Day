@@ -76,6 +76,7 @@ img {
 .mission {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
+  text-align: center;
   font-weight: <weight>;
   font-style: normal;
 }
