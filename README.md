@@ -1,7 +1,7 @@
 Muscle Shoals Earth Day Spin up Website
 =============================
 
-@ReedWillis and https://github.com/gageb3 collaborated on this project to build a website example for the muscle shoals earth day. We were in contact with Nancy Muse, the person in charge of the website. She gave us her ideas for the website and we made them come to lie!
+@ReedWillis and @gageb3 collaborated on this project to build a website example for the muscle shoals earth day. We were in contact with Nancy Muse, the person in charge of the website. She gave us her ideas for the website and we made them come to lie!
 
 
 This website took several weeks to complete. It required lots of phone calls and real world experiences. Some of the requirments that Mrs. Nancy wished for was a photo gallery, the registration form, and her poster, along with many other things on the website. One of the issues that came about was the readability of this website, but Gage and I worked with the client and did everything to their desire, including fonts and layouts. 
