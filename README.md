@@ -13,7 +13,7 @@ This website took several weeks to complete. It required lots of phone calls and
 
 ----------------------------------------------
 
-###Code that needed to be fixed: 
+### Code that needed to be fixed: 
 
 ```html
 <div class="navbar-collapse collapse show" id="xx">
