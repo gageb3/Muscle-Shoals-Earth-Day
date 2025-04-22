@@ -56,15 +56,16 @@ img {
 }
 
 .card {
-  margin-top: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-top: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
   font-family: "Orbitron", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
   border: solid black 5px;
 }
+
 
 .green-bar {
   width: 100%;
