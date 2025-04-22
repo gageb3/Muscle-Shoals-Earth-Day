@@ -16,6 +16,10 @@ This website took several weeks to complete. It required lots of phone calls and
 
 ----------------------------------------------
 
+authorship:
+
+@ReedWillis and @gageb3
+
 ### Code that needed to be fixed: 
 
 ```html
