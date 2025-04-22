@@ -18,7 +18,7 @@ This website took several weeks to complete. It required lots of phone calls and
 
 authorship:
 
-<a href="https://github.com/ReedWillis>@ReedWillis</a> and <a href="https://github.com/gageb3">@gageb3</a>
+<a href="https://github.com/ReedWillis">@ReedWillis</a> and <a href="https://github.com/gageb3">@gageb3</a>
 
 ----------------------------------------------
 
