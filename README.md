@@ -8,7 +8,7 @@ This website took several weeks to complete. It required lots of phone calls and
 
 --------------------------------------------
 
-* current website here: https://www.shoalsearthmonth.org/
+* current website here: <a target="_blank">https://www.shoalsearthmonth.org/</a>
 * Our website draft here: https://reedwillis.github.io/Muscle-Shoals-Earth-Day/
 * 🦭  This was an honors college project for CIS 376 at UNA.
 * 📅  This website was done in March, 2025.
