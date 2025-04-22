@@ -1,14 +1,14 @@
-Muscle Shoals Earth Day Spinup Website
+Muscle Shoals Earth Day Spin up Website
 =============================
 
-Reed Willis and Gage Bays collabrated on this project to build a website example for the muscle shoals earth day. We were in contact with Nancy Muse, the pperson in charge of the website. She gave us her ideas for the website and we made them come to lie!
+Reed Willis and Gage Bays collaborated on this project to build a website example for the muscle shoals earth day. We were in contact with Nancy Muse, the person in charge of the website. She gave us her ideas for the website and we made them come to lie!
 
 
 This website took several weeks to complete. It required lots of phone calls and real world experiences. Some of the requirments that Mrs. Nancy wished for was a photo gallery, the registration form, and her poster, along with many other things on the website. One of the issues that came about was the readability of this website, but Gage and I worked with the client and did everything to their desire, including fonts and layouts. 
 
 --------------------------------------------
 
-* current website here: https://www.shoalsearthmonth.org/
+* Current website here: https://www.shoalsearthmonth.org/
 * Our website draft here: https://reedwillis.github.io/Muscle-Shoals-Earth-Day/
 * 🦭  This was an honors college project for CIS 376 at UNA.
 * 📅  This website was done in March, 2025.
@@ -27,7 +27,7 @@ This website took several weeks to complete. It required lots of phone calls and
 ```
 <details>
   <summary>Details about issue 1</summary>
-  <p>Gage and I used the link of a screenshot of the form as the form on the website, but our proffessor, Dr. Barry Cumbie, showed us how to link the actual pdf and that is much better because it is the actual thing that we were trying to link to in the first place.</p>
+  <p>Gage and I used the link of a screenshot of the form as the form on the website, but our professor, Dr. Barry Cumbie, showed us how to link the actual pdf and that is much better because it is the actual thing that we were trying to link to in the first place.</p>
 </details>
 
 ```html
